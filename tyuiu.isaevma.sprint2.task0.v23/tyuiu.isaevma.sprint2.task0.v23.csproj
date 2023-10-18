@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{96AF6EDB-F7F6-4393-AFEA-E1F75658A4CD}</ProjectGuid>
+    <ProjectGuid>{8C90868B-18DA-4E4B-88F9-061967B94685}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>tyuiu.isaevma.sprint2</RootNamespace>
-    <AssemblyName>tyuiu.isaevma.sprint2</AssemblyName>
+    <RootNamespace>tyuiu.isaevma.sprint2.task0.v23</RootNamespace>
+    <AssemblyName>tyuiu.isaevma.sprint2.task0.v23</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\tyuiu.isaevma.sprint2.lib\tyuiu.isaevma.sprint2.v23.lib.csproj">
-      <Project>{6d48cf6b-ac9a-4af8-a5d8-74c9697fed54}</Project>
-      <Name>tyuiu.isaevma.sprint2.v23.lib</Name>
+    <ProjectReference Include="..\tyuiu.isaevma.sprint2.task0.v23.lib\tyuiu.isaevma.sprint2.task0.v23.lib.csproj">
+      <Project>{3a57f704-e730-43ba-8379-02276a514db4}</Project>
+      <Name>tyuiu.isaevma.sprint2.task0.v23.lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

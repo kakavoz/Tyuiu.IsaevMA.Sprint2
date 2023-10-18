@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{532308A1-67E8-448B-A782-75843E2378E2}</ProjectGuid>
+    <ProjectGuid>{D79A32EF-DD0D-4A66-84C6-79631F3EDFEC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>tyuiu.isaevma.sprint2.test</RootNamespace>
-    <AssemblyName>tyuiu.isaevma.sprint2.test</AssemblyName>
+    <RootNamespace>tyuiu.isaevma.sprint2.task0.v23.test</RootNamespace>
+    <AssemblyName>tyuiu.isaevma.sprint2.task0.v23.test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -47,9 +47,6 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="tyuiu.cources.programming.interfaces">
-      <HintPath>..\..\tyuiu.cources.programming.interfaces.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataServiceTest.cs" />
@@ -59,8 +56,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\tyuiu.isaevma.sprint2.lib\tyuiu.isaevma.sprint2.task0.v23.lib.csproj">
-      <Project>{6d48cf6b-ac9a-4af8-a5d8-74c9697fed54}</Project>
+    <ProjectReference Include="..\tyuiu.isaevma.sprint2.task0.v23.lib\tyuiu.isaevma.sprint2.task0.v23.lib.csproj">
+      <Project>{3a57f704-e730-43ba-8379-02276a514db4}</Project>
       <Name>tyuiu.isaevma.sprint2.task0.v23.lib</Name>
     </ProjectReference>
   </ItemGroup>
