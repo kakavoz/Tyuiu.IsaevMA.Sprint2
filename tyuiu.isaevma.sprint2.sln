@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{677D0277-258B-4F3E-9041-011CCEA00472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task1.V27", "tyuiu.isaevma.sprint2.task0.v27\Tyuiu.IsaevMa.Sprint2.Task1.V27.csproj", "{C4841D43-EC57-4184-A9A1-E4AA6BE46A01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task1.V27", "Tyuiu.IsaevMA.Sprint2.Task1.V27\Tyuiu.IsaevMa.Sprint2.Task1.V27.csproj", "{C4841D43-EC57-4184-A9A1-E4AA6BE46A01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task1.V27.Test", "tyuiu.isaevma.sprint2.task0.v27.test\Tyuiu.IsaevMa.Sprint2.Task1.V27.Test.csproj", "{1E6B1C89-FB82-4B08-8982-14F1931C34C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task1.V27.Test", "Tyuiu.IsaevMA.Sprint2.Task1.V27.Test\Tyuiu.IsaevMa.Sprint2.Task1.V27.Test.csproj", "{1E6B1C89-FB82-4B08-8982-14F1931C34C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task1.V27.Lib", "tyuiu.isaevma.sprint2.task0.v27.lib\Tyuiu.IsaevMa.Sprint2.Task1.V27.Lib.csproj", "{57C04660-CCEA-4D38-8F3B-36BFB0A207B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task1.V27.Lib", "Tyuiu.IsaevMA.Sprint2.Task1.V27.Lib\Tyuiu.IsaevMa.Sprint2.Task1.V27.Lib.csproj", "{57C04660-CCEA-4D38-8F3B-36BFB0A207B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task2", "task2", "{46EC2E44-9E50-485E-8DE3-C2FD771745C3}"
 EndProject
