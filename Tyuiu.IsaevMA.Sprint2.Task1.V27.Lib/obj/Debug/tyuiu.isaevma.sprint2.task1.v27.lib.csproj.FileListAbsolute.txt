@@ -1,0 +1,8 @@
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\tyuiu.isaevma.sprint2.task0.v27.lib\bin\Debug\tyuiu.isaevma.sprint2.task0.v27.lib.dll
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\tyuiu.isaevma.sprint2.task0.v27.lib\bin\Debug\tyuiu.isaevma.sprint2.task0.v27.lib.pdb
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\tyuiu.isaevma.sprint2.task0.v27.lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\tyuiu.isaevma.sprint2.task0.v27.lib\obj\Debug\tyuiu.isaevma.sprint2.task1.v27.lib.csproj.AssemblyReference.cache
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\tyuiu.isaevma.sprint2.task0.v27.lib\obj\Debug\tyuiu.isaevma.sprint2.task1.v27.lib.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\tyuiu.isaevma.sprint2.task0.v27.lib\obj\Debug\tyuiu.isaevma.sprint2.task1.v27.lib.csproj.CopyComplete
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\tyuiu.isaevma.sprint2.task0.v27.lib\obj\Debug\tyuiu.isaevma.sprint2.task0.v27.lib.dll
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\tyuiu.isaevma.sprint2.task0.v27.lib\obj\Debug\tyuiu.isaevma.sprint2.task0.v27.lib.pdb
