@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using tyuiu.isaevma.sprint2.task3.v6.lib;
 
-namespace tyuiu.isaevma.sprint2.task3.v6.lib
+
+namespace Tyuiu.IsaevMA.Sprint2.Task3.V6.Lib
 {
     public class DataService
     {

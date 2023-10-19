@@ -5,35 +5,35 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task0", "task0", "{494A64EC-179D-45FE-BADD-CF03F090351F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task0.v23", "tyuiu.isaevma.sprint2.task0.v23\tyuiu.isaevma.sprint2.task0.v23.csproj", "{8C90868B-18DA-4E4B-88F9-061967B94685}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task0.V23", "tyuiu.isaevma.sprint2.task0.v23\Tyuiu.IsaevMa.Sprint2.Task0.V23.csproj", "{8C90868B-18DA-4E4B-88F9-061967B94685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task0.v23.lib", "tyuiu.isaevma.sprint2.task0.v23.lib\tyuiu.isaevma.sprint2.task0.v23.lib.csproj", "{3A57F704-E730-43BA-8379-02276A514DB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task0.V23.Lib", "tyuiu.isaevma.sprint2.task0.v23.lib\Tyuiu.IsaevMa.Sprint2.Task0.V23.Lib.csproj", "{3A57F704-E730-43BA-8379-02276A514DB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task0.v23.test", "tyuiu.isaevma.sprint2.task0.v23.test\tyuiu.isaevma.sprint2.task0.v23.test.csproj", "{D79A32EF-DD0D-4A66-84C6-79631F3EDFEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task0.V23.Test", "tyuiu.isaevma.sprint2.task0.v23.test\Tyuiu.IsaevMa.Sprint2.Task0.V23.Test.csproj", "{D79A32EF-DD0D-4A66-84C6-79631F3EDFEC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{677D0277-258B-4F3E-9041-011CCEA00472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task1.v27", "tyuiu.isaevma.sprint2.task0.v27\tyuiu.isaevma.sprint2.task1.v27.csproj", "{C4841D43-EC57-4184-A9A1-E4AA6BE46A01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task1.V27", "tyuiu.isaevma.sprint2.task0.v27\Tyuiu.IsaevMa.Sprint2.Task1.V27.csproj", "{C4841D43-EC57-4184-A9A1-E4AA6BE46A01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task1.v27.test", "tyuiu.isaevma.sprint2.task0.v27.test\tyuiu.isaevma.sprint2.task1.v27.test.csproj", "{1E6B1C89-FB82-4B08-8982-14F1931C34C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task1.V27.Test", "tyuiu.isaevma.sprint2.task0.v27.test\Tyuiu.IsaevMa.Sprint2.Task1.V27.Test.csproj", "{1E6B1C89-FB82-4B08-8982-14F1931C34C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task1.v27.lib", "tyuiu.isaevma.sprint2.task0.v27.lib\tyuiu.isaevma.sprint2.task1.v27.lib.csproj", "{57C04660-CCEA-4D38-8F3B-36BFB0A207B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task1.V27.Lib", "tyuiu.isaevma.sprint2.task0.v27.lib\Tyuiu.IsaevMa.Sprint2.Task1.V27.Lib.csproj", "{57C04660-CCEA-4D38-8F3B-36BFB0A207B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task2", "task2", "{46EC2E44-9E50-485E-8DE3-C2FD771745C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task2.v17", "tyuiu.isaevma.sprint2.task2.v17\tyuiu.isaevma.sprint2.task2.v17.csproj", "{9A0EDEB0-D5EF-4EC2-BD8D-248A1B1E929F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task2.V17", "tyuiu.isaevma.sprint2.task2.v17\Tyuiu.IsaevMa.Sprint2.Task2.V17.csproj", "{9A0EDEB0-D5EF-4EC2-BD8D-248A1B1E929F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task2.v17.lib", "tyuiu.isaevma.sprint2.task2.v17.lib\tyuiu.isaevma.sprint2.task2.v17.lib.csproj", "{433FF905-4FEB-4AAA-AC56-5BCC2C618BAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task2.V17.Lib", "tyuiu.isaevma.sprint2.task2.v17.lib\Tyuiu.IsaevMa.Sprint2.Task2.V17.Lib.csproj", "{433FF905-4FEB-4AAA-AC56-5BCC2C618BAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task2.v17.test", "tyuiu.isaevma.sprint2.task2.v17.test\tyuiu.isaevma.sprint2.task2.v17.test.csproj", "{2DA053FA-200A-40C9-AB76-77B6B67C1ED4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task2.V17.Test", "tyuiu.isaevma.sprint2.task2.v17.test\Tyuiu.IsaevMa.Sprint2.Task2.V17.Test.csproj", "{2DA053FA-200A-40C9-AB76-77B6B67C1ED4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task3", "task3", "{794819FA-B1E4-4251-8B2B-3DC6E830D18C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task3.v6", "tyuiu.isaevma.sprint2.task3.v6\tyuiu.isaevma.sprint2.task3.v6.csproj", "{9647CE12-DFDA-4691-A16A-DFEC6969973C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task3.V6", "tyuiu.isaevma.sprint2.task3.v6\Tyuiu.IsaevMa.Sprint2.Task3.V6.csproj", "{9647CE12-DFDA-4691-A16A-DFEC6969973C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task3.v6.lib", "tyuiu.isaevma.sprint2.task3.v6.lib\tyuiu.isaevma.sprint2.task3.v6.lib.csproj", "{947F52E1-C840-47F1-BD00-502E187AD52E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task3.V6.Lib", "tyuiu.isaevma.sprint2.task3.v6.lib\Tyuiu.IsaevMa.Sprint2.Task3.V6.Lib.csproj", "{947F52E1-C840-47F1-BD00-502E187AD52E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.isaevma.sprint2.task3.v6.test", "tyuiu.isaevma.sprint2.task3.v6.test\tyuiu.isaevma.sprint2.task3.v6.test.csproj", "{8EADC260-3C4D-47CC-9114-4D2E961CFA16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IsaevMa.Sprint2.Task3.V6.Test", "tyuiu.isaevma.sprint2.task3.v6.test\Tyuiu.IsaevMa.Sprint2.Task3.V6.Test.csproj", "{8EADC260-3C4D-47CC-9114-4D2E961CFA16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
