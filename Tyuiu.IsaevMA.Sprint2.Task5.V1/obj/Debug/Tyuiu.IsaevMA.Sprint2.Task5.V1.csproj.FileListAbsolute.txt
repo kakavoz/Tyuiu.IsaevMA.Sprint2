@@ -1,0 +1,11 @@
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\bin\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.exe.config
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\bin\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.exe
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\bin\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.pdb
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\bin\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.Lib.dll
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\bin\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.Lib.pdb
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\obj\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.csproj.AssemblyReference.cache
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\obj\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\obj\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.csproj.CopyComplete
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\obj\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.exe
+C:\Users\max\source\repos\tyuiu.isaevma.sprint2\Tyuiu.IsaevMA.Sprint2.Task5.V1\obj\Debug\Tyuiu.IsaevMA.Sprint2.Task5.V1.pdb
